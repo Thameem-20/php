@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 80%;
+    background-color: greenyellow;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+}
+input, textarea{
+    width: 50%;
+    margin: 10px;
+}
